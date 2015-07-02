@@ -890,3 +890,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+.forms a {
+    color: #06c;
+}
